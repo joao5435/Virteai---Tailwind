@@ -48,7 +48,7 @@ O site foi pensado para ser **leve, acessível, moderno e responsivo**, permitin
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd VirteAI-Realidade-Virtual
+   cd Virteai---Tailwind
    ```
 
 3. Abra o arquivo `index.html` em seu navegador ou utilize a extensão **Live Server** no VS Code para melhor experiência.
