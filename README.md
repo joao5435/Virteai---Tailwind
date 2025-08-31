@@ -1,5 +1,4 @@
-Beleza 🚀
-Aqui está o README atualizado, agora **sem a parte de Layout**:
+
 
 ---
 
