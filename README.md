@@ -34,7 +34,7 @@ O site foi pensado para ser **leve, acessível, moderno e responsivo**, permitin
 * **produtos.html** → Página com os óculos e recursos disponíveis.
 * **contato.html** → Página com formulário para contato e suporte.
 * **sobre.html** → Página com informações sobre a missão da empresa.
-* **style.css** → Estilos adicionais (quando necessário, além do Tailwind).
+* **style.css** → Estilos adicionais.
 
 ---
 
