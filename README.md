@@ -11,7 +11,7 @@
  <a href="#-estrutura-de-arquivos">Estrutura</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias-utilizadas">Tecnologias</a> • 
+ <a href="#-Tecnologias-Utilizadas">Tecnologias</a> • 
  <a href="#-como-contribuir">Contribuição</a> • 
  <a href="#-autores">Autores</a> • 
  <a href="#-licença">Licença</a>
